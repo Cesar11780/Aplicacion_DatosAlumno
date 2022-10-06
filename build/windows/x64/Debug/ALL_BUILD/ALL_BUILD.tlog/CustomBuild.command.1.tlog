@@ -1,0 +1,10 @@
+^C:\USERS\ULTRO\ONEDRIVE\ESCRITORIO\UTXJ\DESARROLLO MÓVIL INTEGRAL\PRACTICA06_180017\TAREA_180017\BUTTONS_APP\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ultro/OneDrive/Escritorio/UTXJ/Desarrollo Móvil Integral/Practica06_180017/Tarea_180017/buttons_app/windows" "-BC:/Users/ultro/OneDrive/Escritorio/UTXJ/Desarrollo Móvil Integral/Practica06_180017/Tarea_180017/buttons_app/build/windows" --check-stamp-file "C:/Users/ultro/OneDrive/Escritorio/UTXJ/Desarrollo Móvil Integral/Practica06_180017/Tarea_180017/buttons_app/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

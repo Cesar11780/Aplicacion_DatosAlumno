@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Desarrollo Móvil Integral\Practica06_180017\Tarea_180017\buttons_app\build\windows\CMakeFiles\41835f170d4d1c642a7df477952726a7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{952A8B5C-D163-34F6-B89E-EE0C49D07A01}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

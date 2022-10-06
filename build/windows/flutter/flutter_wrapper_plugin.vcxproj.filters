@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Desarrollo Móvil Integral\Practica06_180017\Tarea_180017\buttons_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Desarrollo Móvil Integral\Practica06_180017\Tarea_180017\buttons_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Desarrollo Móvil Integral\Practica06_180017\Tarea_180017\buttons_app\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Desarrollo Móvil Integral\Practica06_180017\Tarea_180017\buttons_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{952A8B5C-D163-34F6-B89E-EE0C49D07A01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ADEE2E2D-2E7C-3E83-94D6-24D4068E6314}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
